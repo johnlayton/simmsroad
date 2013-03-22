@@ -1,0 +1,19 @@
+{
+  "name": "simmsroad",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node simmsroad-server.js"
+  },
+  "dependencies": {
+    "csrf-lite":       "*",
+    "cookies":         "*",
+    "querystring":     "*",
+    "express":         "*",
+    "mysql":           "*",
+    "ejs":             "*",
+    "socket.io":       "*",
+    "d3":              "*",
+    "less-middleware": "*"
+  }
+}
